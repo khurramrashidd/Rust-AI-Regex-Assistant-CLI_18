@@ -72,24 +72,8 @@ Follow the interactive prompts to either generate or explain a regex.
 ---
 
 ## 📸 Example
-
-```text
-======================================
- 🧬 AI Regex Assistant CLI (Day 18) 
-======================================
-1. Generate Regex from English
-2. Explain an existing Regex
-
-Choose an option (1 or 2): 1
-
-📝 Describe what you want to match: A valid hex color code like #FFF or #FFFFFF
-
-🧠 Thinking...
-
-✅ Generated Regex:
-
-^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$
-```
+<img width="1687" height="439" alt="image" src="https://github.com/user-attachments/assets/f7b562df-4fda-4593-8694-71da65113b6e" />
+<img width="1700" height="579" alt="image" src="https://github.com/user-attachments/assets/35087eab-f990-4583-bc55-4c1aa1ac5c24" />
 
 ---
 
